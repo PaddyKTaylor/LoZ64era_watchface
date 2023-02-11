@@ -1,0 +1,4 @@
+<fonts>
+    <font id="FOT_Chiaro_time" filename="chiaro_for_time.fnt" />
+    <font id="FOT_Chiaro_date" filename="chiaro_for_time.fnt" />
+</fonts>
